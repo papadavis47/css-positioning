@@ -9,3 +9,26 @@ body {
   font-size: 16px;
   margin: 0;
 }
+
+h1 {
+  color: #06365f;
+}
+
+.top {
+  height: 400px;
+  background-image: url(../img/bgtile.png);
+  background-repeat: repeat-x;
+}
+
+.grey {
+  background-image: url(../img/frame.png);
+
+}
+
+#logo {
+  padding: 150px;
+}
+
+.middle {
+  width: 25%;
+}
